@@ -86,7 +86,6 @@ Ultimately, Clean Todo is about clarity. It’s about helping you see your work,
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://static.macupdate.com/screenshots/353760/m/phph2fxb6-screenshot.png?v=1714108540)  
 ![Screenshot 2](https://static.macupdate.com/screenshots/273507/m/clear-todos-screenshot.png?v=1597918395)  
 
 ---
